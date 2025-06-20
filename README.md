@@ -5,25 +5,31 @@ This repository contains all the Java-based hands-on exercises and solutions fro
 ## 📁 Folder Structure
 
 Each week's content is organized as follows:
-JavaFse
-|
-|___ [WeekNumber][Skill]/
-| │
-| ├── [ExerciseNumber][ExerciseName]/
-| │ ├── code/ ← Java source code
-| │ ├── output/ ← Screenshot(s) of program output
-| │
+JavaFse/
+│
+├── [WeekNumber][Skill]/
+│ ├── [ExerciseNumber][ExerciseName]/
+│ │ ├── code/ ← Java source code
+│ │ ├── output/ ← Screenshot(s) of program output
 └── README.md ← This file
 
 ## ✅ Topics Covered
 
-#- Week 1:
-  ##Design Principles and Patterns
-   - Singleton Pattern
-   - Factory Method Pattern
- ##Data structures and Algorithms
-   -Exercise 2: E-commerce Platform Search Function
-   -Exercise 7: Financial Forecasting
+
+---
+
+## ✅ Topics Covered
+
+### 🗓️ Week 1: Design Principles and Patterns
+
+#### 🔹 Design Patterns
+- Singleton Pattern  
+- Factory Method Pattern  
+
+#### 📊 Data Structures and Algorithms
+-  E-commerce Platform Search Function  
+-  Financial Forecasting
+
 ## 🧪 How to Run
 
 1. Clone this repo:
