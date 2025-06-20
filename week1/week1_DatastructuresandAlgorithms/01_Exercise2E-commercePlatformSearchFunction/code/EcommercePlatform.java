@@ -50,13 +50,13 @@ public class EcommercePlatform {
         Product[] product = new Product[2];
         product[0] = new Product(1002, "lays", "snack");
         product[1] = new Product(1001, "slice", "juice");
-        System.out.println("Array Before Sorting:");
+        System.out.println("Array Before Sorting Based on Id:");
         for (int i = 0; i < 2; i++) {
             System.out.println(product[i]);
         }
         Arrays.sort(product, (a, b) -> a.productId - b.productId);
         System.out.println();
-        System.out.println("Array Before Sorting Based on id:");
+        System.out.println("Array After Sorting Based on id:");
         for (int i = 0; i < 2; i++) {
             System.out.println(product[i]);
         }
