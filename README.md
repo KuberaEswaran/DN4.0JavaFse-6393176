@@ -17,11 +17,11 @@ JavaFse
 
 ## ✅ Topics Covered
 
-- Week 1:
-  Design Principles and Patterns
+#- Week 1:
+  ##Design Principles and Patterns
    - Singleton Pattern
    - Factory Method Pattern
-  Data structures and Algorithms
+ ##Data structures and Algorithms
    -Exercise 2: E-commerce Platform Search Function
    -Exercise 7: Financial Forecasting
 ## 🧪 How to Run
